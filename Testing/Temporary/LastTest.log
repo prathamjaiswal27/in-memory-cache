@@ -1,0 +1,35 @@
+Start testing: May 06 23:51 IST
+----------------------------------------------------------
+1/1 Testing: LRUCacheTests
+1/1 Test: LRUCacheTests
+Command: "/mnt/c/Users/jaisw/OneDrive/Desktop/cache/build/lru_cache_tests"
+Directory: /mnt/c/Users/jaisw/OneDrive/Desktop/cache/build
+"LRUCacheTests" start time: May 06 23:51 IST
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/jaisw/OneDrive/Desktop/cache/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 4 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 4 tests from LRUCacheTests
+[ RUN      ] LRUCacheTests.BasicPutGet
+[       OK ] LRUCacheTests.BasicPutGet (0 ms)
+[ RUN      ] LRUCacheTests.EvictionCheck
+[       OK ] LRUCacheTests.EvictionCheck (0 ms)
+[ RUN      ] LRUCacheTests.UpdateExisting
+[       OK ] LRUCacheTests.UpdateExisting (0 ms)
+[ RUN      ] LRUCacheTests.ThreadSafety
+[       OK ] LRUCacheTests.ThreadSafety (22 ms)
+[----------] 4 tests from LRUCacheTests (22 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 1 test suite ran. (22 ms total)
+[  PASSED  ] 4 tests.
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"LRUCacheTests" end time: May 06 23:51 IST
+"LRUCacheTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 06 23:51 IST

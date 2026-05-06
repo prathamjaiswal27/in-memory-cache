@@ -1,0 +1,2 @@
+LRUCacheTests 1 0.0939312
+---
