@@ -1,4 +1,4 @@
-# LRU Cache Project
+# in-memory cache
 
 This project implements a thread-safe LRU cache in modern C++ with:
 - O(1) `get()` and `put()` using `std::unordered_map` and `std::list`
